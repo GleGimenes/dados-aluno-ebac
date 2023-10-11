@@ -1,11 +1,18 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
+-Primeiro Nome: Gleidson Gimenes
+-Profissão: Em transição de carreira (futuro ex técnico de enfermagem)
+-Cidade: São Paulo
+-O que faz nas horas vaga: Gosto muito de ir ao shows de StanUp Comedy, cinema, teatro, bares, restaurantes
+e sempre que possível ficar em casa fazendo muitos nada.
+-Feedback sobre o curso Qualidade de Software: Como quase *tudo* no começo difícil mas, a didática é muito boa,
+o que ajuda bastante. Os feedback's são rapidos na maioria da vezes (atenciosos e pacientes) o que agrega valor
+ao curso que propõem ensinar do zero sem qualquer conhecimento prévio. Uma comunidade ativa no Discord com 
+interação recorrente dos tutores. O ponto negativo fica por conta da pouca quantidade de webnars gravados mas,
+sobretudo ao vivo ao voltados para a area de teste e qualidade.   
 -Feedback sobre a plataforma de estudo da EBAC:
+
+Obrigado!!!
 
 Obrigado!!!
 
